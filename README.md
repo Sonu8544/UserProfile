@@ -20,7 +20,7 @@
 
 ## Contact with Me
 
-- [LinkedIn](https://linkedin.com/in/8544-sonukumar)
-- [LeetCode](https://leetcode.com/sonu8544/)
-- [Email](sksonu8544@gmail.com)
-- [Phone](+91 8544098398)
+- [Linkedin] (https://linkedin.com/in/8544-sonukumar)
+- [LeetCode] (https://leetcode.com/sonu8544/)
+- [Email] (sksonu8544@gmail.com)
+- [Phone] (+91 8544098398)
