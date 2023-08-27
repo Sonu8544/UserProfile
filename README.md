@@ -20,6 +20,7 @@
 
 ## Contact with Me
 
-- [Email](mailto:dev.mehdineysi@gmail.com)
-- [Instagram](https://instagram.com/neysidev)
-- [Twitter](https://twitter.com/neysidev)
+- [LinkedIn](https://linkedin.com/in/8544-sonukumar)
+- [LeetCode](https://leetcode.com/sonu8544/)
+- [Email](sksonu8544@gmail.com)
+- [Phone](+91 8544098398)
